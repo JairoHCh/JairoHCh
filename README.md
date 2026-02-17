@@ -9,12 +9,27 @@
   ### 🚀 The intersection of robust Software Engineering and Data Science.
 
   <p align="center">
-      Based in Lima, Peru. Currently tackling my 3rd semester at <b>Universidad Nacional de Ingeniería (UNI)</b>.
+      Based in Lima, Peru 🇵🇪. Currently tackling my 3rd semester at <b>Universidad Nacional de Ingeniería (UNI)</b>.
       <br><br>
       🏆 <b>Top 10% Student (Décimo Superior)</b>
       <br>
       Passionate about building Freelance Full-Stack projects and specializing in AI.
   </p>
+
+  ---
+
+  ### 📊 GitHub Analytics
+
+  <div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JairoHCh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairoHCh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14"/>
+  </div>
+
+  <br>
+
+  <div align="center">
+    <img src="https://streak-stats.demolab.com?user=JairoHCh&theme=tokyonight&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14"/>
+  </div>
 
   ---
 
@@ -53,12 +68,6 @@
       <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali"/>
     </a>
   </p>
-
-  ---
-
-  <br>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Matrix Code" width="100%" />
-  <br><br>
 
   ---
 
