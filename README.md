@@ -2,7 +2,7 @@
 
   <h1>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Hey,+I'm+Jairo!+👋;UNI+Systems+Engineering;Data+%26+AI+Enthusiast;Building+Web+Solutions" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Hey,+I'm+Jairo!+👋;UNI+Systems+Engineering;Data+%26+AI+Enthusiast;Building+Web+Solutions" alt="Typing SVG" />
     </a>
   </h1>
 
@@ -10,8 +10,10 @@
 
   <p align="center">
       Based in Lima, Peru. Currently tackling my 3rd semester at <b>Universidad Nacional de Ingeniería (UNI)</b>.
+      <br><br>
+      🏆 <b>Top 10% Student (Décimo Superior)</b>
       <br>
-      🏆 <b>Top 10% Student (Décimo Superior)</b> | Passionate about building Freelance Full-Stack projects and specializing in AI.
+      Passionate about building Freelance Full-Stack projects and specializing in AI.
   </p>
 
   ---
@@ -58,6 +60,8 @@
   <p align="center">
     <a href="https://github.com/JairoHCh">
       <img height="180" src="https://github-readme-stats.vercel.app/api?username=JairoHCh&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="Jairo's Stats"/>
+    </a>
+    <a href="https://github.com/JairoHCh">
       <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairoHCh&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top Languages"/>
     </a>
   </p>
