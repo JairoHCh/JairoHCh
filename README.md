@@ -9,7 +9,9 @@
   ### 🚀 The intersection of robust Software Engineering and Data Science.
 
   <p align="center">
-      Based in Lima, Peru. Currently tackling my 3rd semester at <b>Universidad Nacional de Ingeniería (UNI)</b> while working on freelance Full-Stack projects. My goal is to specialize in Machine Learning and AI.
+      Based in Lima, Peru. Currently tackling my 3rd semester at <b>Universidad Nacional de Ingeniería (UNI)</b>.
+      <br>
+      🏆 <b>Top 10% Student (Décimo Superior)</b> | Passionate about building Freelance Full-Stack projects and specializing in AI.
   </p>
 
   ---
@@ -17,6 +19,9 @@
   ### 🛠️ My Technical Arsenal
 
   <p>
+    <a href="https://isocpp.org/" target="_blank">
+      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+    </a>
     <a href="https://www.python.org/" target="_blank">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
     </a>
@@ -52,10 +57,11 @@
   ### 📊 GitHub Analytics
   <p align="center">
     <a href="https://github.com/JairoHCh">
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=JairoHCh&show_icons=true&theme=tokyonight&hide_border=true" alt="Jairo's Stats"/>
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairoHCh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=JairoHCh&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="Jairo's Stats"/>
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairoHCh&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top Languages"/>
     </a>
   </p>
+
   ---
 
   ### 📬 Let's Connect
