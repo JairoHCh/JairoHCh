@@ -56,10 +56,9 @@
 
   ---
 
- ### 📊 GitHub Analytics
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=JairoHCh&show_icons=true&theme=tokyonight&hide_border=true" alt="Jairo's Stats" height="180"/>
-  </p>
+  <br>
+  <img src="https://i.pinimg.com/originals/1c/54/f7/1c54f7b06d7723c21afc5035bf88a5ef.gif" alt="Coding GIF" width="100%" />
+  <br><br>
 
   ---
 
