@@ -52,11 +52,10 @@
   ### 📊 GitHub Analytics
   <p align="center">
     <a href="https://github.com/JairoHCh">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JairoHCh&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Jairo's Stats"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairoHCh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=JairoHCh&show_icons=true&theme=tokyonight&hide_border=true" alt="Jairo's Stats"/>
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairoHCh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
     </a>
   </p>
-
   ---
 
   ### 📬 Let's Connect
