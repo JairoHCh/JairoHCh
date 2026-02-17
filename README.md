@@ -32,26 +32,22 @@
   ---
 
   ### 📊 GitHub Analytics
-  <table align="center" border="0">
-    <tr>
-      <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=JairoHCh&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Jairo's Stats" height="180"/>
-      </td>
-      <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    <a href="https://github.com/JairoHCh">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JairoHCh&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Jairo's Stats"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairoHCh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+    </a>
+  </p>
 
   ---
 
   ### 📬 Let's Connect
 
   <p align="center">
-    <a href="www.linkedin.com/in/jairo-jhosimar-huaman-choque-5b2650385" target="_blank">
+    <a href="https://www.linkedin.com/in/jairo-jhosimar-huaman-choque-5b2650385" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="mailto: jairo062008@gmail.com">
+    <a href="mailto:jairo062008@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
   </p>
