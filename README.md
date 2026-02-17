@@ -56,14 +56,9 @@
 
   ---
 
-  ### 📊 GitHub Analytics
+ ### 📊 GitHub Analytics
   <p align="center">
-    <a href="https://github.com/JairoHCh">
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=JairoHCh&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="Jairo's Stats"/>
-    </a>
-    <a href="https://github.com/JairoHCh">
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairoHCh&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top Languages"/>
-    </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=JairoHCh&show_icons=true&theme=tokyonight&hide_border=true" alt="Jairo's Stats" height="180"/>
   </p>
 
   ---
